@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title">Trivia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="ctr">0 out of 100</string>
+    <string name="placeholder_text">placeholder_text</string>
+    <string name="wrong_answer">Wrong!</string>
+    <string name="correct_answer">Correct!</string>
+</resources>
